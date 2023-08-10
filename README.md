@@ -2,6 +2,7 @@
 - 👀 I’m interested in homebridge
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on homebridge
+- 👷 I work at eBay as product / business owner on architecture and open source
 - 📫 Reach me through github.
 
 <!---
