@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @matt-drazba
-- 👀 I’m interested in homebridge
+- 👀 I’m interested in homebridge and APIs
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on homebridge
+- 💞️ I’m looking to collaborate on open source projects
 - 👷 I work at eBay as product / business owner on architecture and open source
-- 📫 Reach me through linkedin: https://www.linkedin.com/in/mattdrazba/.
 
 <!---
 matt-drazba/matt-drazba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
